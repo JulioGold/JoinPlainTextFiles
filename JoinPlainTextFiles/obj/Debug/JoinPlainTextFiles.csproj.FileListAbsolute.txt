@@ -1,0 +1,7 @@
+c:\users\jgoldschmidt\documents\visual studio 2013\Projects\JoinPlainTextFiles\JoinPlainTextFiles\bin\Debug\JoinPlainTextFiles.exe.config
+c:\users\jgoldschmidt\documents\visual studio 2013\Projects\JoinPlainTextFiles\JoinPlainTextFiles\bin\Debug\JoinPlainTextFiles.exe
+c:\users\jgoldschmidt\documents\visual studio 2013\Projects\JoinPlainTextFiles\JoinPlainTextFiles\bin\Debug\JoinPlainTextFiles.pdb
+c:\users\jgoldschmidt\documents\visual studio 2013\Projects\JoinPlainTextFiles\JoinPlainTextFiles\bin\Debug\NDesk.Options.dll
+c:\users\jgoldschmidt\documents\visual studio 2013\Projects\JoinPlainTextFiles\JoinPlainTextFiles\obj\Debug\JoinPlainTextFiles.exe
+c:\users\jgoldschmidt\documents\visual studio 2013\Projects\JoinPlainTextFiles\JoinPlainTextFiles\obj\Debug\JoinPlainTextFiles.pdb
+C:\Users\jgoldschmidt\Documents\Visual Studio 2013\Projects\JoinPlainTextFiles\JoinPlainTextFiles\obj\Debug\JoinPlainTextFiles.csprojResolveAssemblyReference.cache
