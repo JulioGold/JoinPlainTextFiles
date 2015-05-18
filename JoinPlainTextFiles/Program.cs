@@ -26,6 +26,10 @@ namespace JoinPlainTextFiles
                 { "dl|delimiter=", "File delimiter for each file.", v => delimiter = v },
                 { "sp|searchpattern=", "Search pattern.", v => searchpattern = v },
                 { "h|help",  "Show this message and exit", v => show_help = v != null }
+                // TODO: Adicionar uma forma de indicar uma ordem dos arquivos, e também se algum arquivo deve ser executado por primeiro...
+                // TODO: Adicionar uma opção de delimitador padrão de arquivo
+                // TODO: Adicionar uma opção para poder colocar quebra de linha no delimitador
+                // TODO: Adicionar uma opção para colocar o cabeçalho de cada arquivo, que tenha o nome e a data...
             };
 
             List<string> extra;
