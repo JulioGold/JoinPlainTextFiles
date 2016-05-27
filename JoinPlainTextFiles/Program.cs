@@ -33,6 +33,7 @@ namespace JoinPlainTextFiles
             };
 
             List<string> extra;
+
             try
             {
                 extra = p.Parse(args);
