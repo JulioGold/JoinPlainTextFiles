@@ -13,7 +13,6 @@ namespace JoinPlainTextFiles
         static void Main(string[] args)
         {
             bool show_help = false;
-
             string directory = String.Empty;
             bool subdirectories = false;
             string delimiter = String.Empty;
